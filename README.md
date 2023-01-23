@@ -1,4 +1,4 @@
-# hyperhdr
+# HyperHDR
 
 Installing HyperHDR on LibreElec
 
